@@ -1,0 +1,15 @@
+{
+  "name": "enricomarino-element-delegate",
+  "description": "Element event delegate component",
+  "version": "0.0.1",
+  "keywords": [
+    "DOM",
+    "Element",
+    "event",
+    "delegate"
+  ],
+  "dependencies": {
+    "enricomarino-element-match": "git://github.com/npmcomponent/enricomarino-element-match.git"
+  },
+  "license": "MIT"
+}

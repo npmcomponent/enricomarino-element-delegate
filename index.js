@@ -10,7 +10,7 @@
  * Componentn dependencies.
  */
 
-var match = require('element-match');
+var match = require('enricomarino-element-match');
 
 /**
  * Expose component.
